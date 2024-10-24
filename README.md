@@ -1,5 +1,6 @@
 ## Getting Started
 
+Forked from origin
 First, install the dependencies:
 
 ```bash
@@ -11,7 +12,6 @@ pnpm install
 # or
 bun install
 ```
-
 
 run the development server:
 
